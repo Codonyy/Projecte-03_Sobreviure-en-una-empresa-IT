@@ -38,4 +38,6 @@ Les seves principals aportacions en seguretat són:
 | **Privadesa i control** | Depèn parcialment dels servidors Bitwarden (excepte en mode self-hosted). | Control i privadesa totals: les dades només resideixen al dispositiu de l’usuari. |
 | **Còpies de seguretat** | Exportació i còpia automàtica al núvol o a un fitxer local xifrat. | Còpia manual del fitxer .kdbx a dispositius o suports segurs (p. ex. clau USB xifrada). |
 
-![Bitwarden](/tasca1/img/Bitwarden.png) ![keepassxc](/tasca1/img/keepassxc.jpg) 
+<img src="/tasca1/img/Bitwarden.png" alt="Bitwarden logo" width="25%" height="25%">
+
+
