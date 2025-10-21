@@ -3,7 +3,7 @@
 
 ## 1. Introducció i Justificació
 
-### 🔐 Risc de les contrasenyes febles o reutilitzades
+### Risc de les contrasenyes febles o reutilitzades
 
 L’ús de contrasenyes febles o repetides és una de les principals causes de ciberincidents empresarials. Aquestes pràctiques permeten diversos tipus d’atacs:
 
@@ -14,3 +14,14 @@ L’ús de contrasenyes febles o repetides és una de les principals causes de c
 
 Un sol compte compromès pot donar accés a dades sensibles o sistemes crítics.  
 Per això, és essencial utilitzar **contrasenyes úniques, complexes i gestionades de manera segura** amb un **gestor de contrasenyes corporatiu**.
+
+### La funció crucial d’un gestor de contrasenyes per mitigar aquests riscos
+
+Un gestor de contrasenyes és una eina essencial per reduir els riscos derivats de l’ús de contrasenyes febles o reutilitzades.  
+La seva funció principal és **emmagatzemar, generar i protegir credencials** de manera segura mitjançant xifratge avançat.
+
+Les seves principals aportacions en seguretat són:
+
+- **Generació automàtica de contrasenyes robustes:** permet crear contrasenyes úniques, llargues i complexes, difícils de trencar per força bruta o atacs de diccionari.  
+- **Emmagatzematge segur i xifrat:** totes les credencials s’emmagatzemen en una base de dades protegida amb xifratge fort (AES-256), només accessible amb una contrasenya mestra.  
+- **Evita la reutilització de contrasenyes:** el gestor facilita
