@@ -26,7 +26,7 @@ Les seves principals aportacions en seguretat són:
 - **Emmagatzematge segur i xifrat:** totes les credencials s’emmagatzemen en una base de dades protegida amb xifratge fort (AES-256), només accessible amb una contrasenya mestra.  
 - **Evita la reutilització de contrasenyes:** el gestor facilita
 
-## 3. Comparativa Tècnica
+## 2. Comparativa Tècnica
 
 
 | Aspecte | Bitwarden | KeePassX / KeePassXC |
