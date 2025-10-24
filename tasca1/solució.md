@@ -1,7 +1,7 @@
 
 # Informe Tècnic: Implementació d’un Gestor de Contrasenyes a EverPia
 
-##Fase 1
+## Fase 1
 
 ## 1. Introducció i Justificació
 
