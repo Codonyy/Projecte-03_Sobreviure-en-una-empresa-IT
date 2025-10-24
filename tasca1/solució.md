@@ -40,5 +40,30 @@ Les seves principals aportacions en seguretat són:
 
 <img src="/tasca1/img/Bitwarden.png" alt="Bitwarden logo" width="25%" height="25%"> <img src="/tasca1/img/keepassxc.jpg" alt="keepassxc logo" width="32%" height="32%">
 
+## 3. Avantatges i inconvenients
+
+**Bitwarden**  
+Avantatges:
+- Sincronització automàtica entre dispositius.
+- Accessible des de navegador i mòbil.
+- Administració centralitzada.  
+Inconvenients:
+- Dependència del núvol (possible vector d’atac).
+- Requereix connexió a Internet.
+
+**KeePassXC**  
+Avantatges:
+- Control total de les dades (fitxer local).
+- Sense dependència del núvol.  
+Inconvenients:
+- Sincronització manual.
+- Interfície menys intuïtiva per a usuaris no tècnics.
+
+## 4. Recomanació
+
+Des del meu punt de vista, recomano **Bitwarden** com a solució principal, per les seguents raóns:
+- la seva **facilitat d’ús i sincronització** entre dispositius (ordinador, mòbil, navegador).
+- el seu **model open source i xifratge end-to-end**.
+- la **possibilitat de desplegar un servidor privat Bitwarden**, garantint control intern i seguretat.
 
 
