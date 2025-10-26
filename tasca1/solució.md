@@ -70,7 +70,17 @@ Des del meu punt de vista, recomano **Bitwarden** com a solució principal, per 
 
 # Fase 2: Guia d'Ús Tècnica (Manual Operatiu)
 
-
+![solucio](/tasca1/img/cap1.png) 
+![solucio](/tasca1/img/cap2.png) 
+![solucio](/tasca1/img/cap3.png) 
+![solucio](/tasca1/img/cap4.png) 
+![solucio](/tasca1/img/cap5.png) 
+![solucio](/tasca1/img/cap6.png) 
+![solucio](/tasca1/img/cap7.png) 
+![solucio](/tasca1/img/cap8.png) 
+![solucio](/tasca1/img/cap9.png) 
+![solucio](/tasca1/img/cap10.png) 
+![solucio](/tasca1/img/cap11.png) 
 
 1. Instal·lació i Configuració Inicial
 
