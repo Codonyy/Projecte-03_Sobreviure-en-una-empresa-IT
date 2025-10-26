@@ -68,4 +68,13 @@ Des del meu punt de vista, recomano **Bitwarden** com a solució principal, per 
 - el seu **model open source i xifratge end-to-end**.
 - la **possibilitat de desplegar un servidor privat Bitwarden**, garantint control intern i seguretat.
 
+# Fase 2: Guia d'Ús Tècnica (Manual Operatiu)
+
+1. Instal·lació i Configuració Inicial
+
+Accedeix a https://bitwarden.com
+
+Crea un compte nou amb una contrasenya mestra segura.
+
+Inicia sessió i activa la verificació en dos passos (2FA).
 
