@@ -70,6 +70,8 @@ Des del meu punt de vista, recomano **Bitwarden** com a solució principal, per 
 
 # Fase 2: Guia d'Ús Tècnica (Manual Operatiu)
 
+
+
 1. Instal·lació i Configuració Inicial
 
 Accedeix a https://bitwarden.com
@@ -78,3 +80,31 @@ Crea un compte nou amb una contrasenya mestra segura.
 
 Inicia sessió i activa la verificació en dos passos (2FA).
 
+2. Generació de Contrasenyes Segures
+
+Fes clic a “Generador de contrasenyes”.
+
+Configura longitud (mínim 16 caràcters).
+
+Activa l’ús de majúscules, números i símbols.
+
+Desa la nova contrasenya directament al gestor.
+
+3. Exemples d’Ús i Emplenament Automàtic
+
+Compte de correu:
+Desa usuari i contrasenya del correu corporatiu.
+
+Aplicació o servei web:
+Desa credencials de GitHub, portals interns, etc.
+
+Autocompletat:
+Activa l’extensió de navegador → apareixerà l’opció d’emplenar automàticament.
+
+4. Còpies de Seguretat
+
+Des del client d’escriptori: Configuració → Export vault → .json xifrat.
+
+Desa’l en una clau USB xifrada o servei de núvol segur (Google Drive xifrat o similars).
+
+No comparteixis mai l’arxiu exportat sense xifrar.
