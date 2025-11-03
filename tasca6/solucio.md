@@ -14,6 +14,8 @@ També s’identifica el **servidor que ha respost** a la consulta, que sol ser 
 ### Comanda 2: Consulta de Servidors de Noms (NS)
 **Consulta:** `dig tecnocampus.cat NS`
 
+![solucio](/tasca6/img/cap2.png) 
+
 **Anàlisi:**  
 Els resultats mostren els **servidors de noms autoritatius** responsables del domini tecnocampus.cat.  
 Aquests servidors contenen la informació oficial del domini i són els que proporcionen respostes autoritzades a les consultes DNS relacionades amb ell.
@@ -22,6 +24,8 @@ Aquests servidors contenen la informació oficial del domini i són els que prop
 
 ### Comanda 3: Consulta Detallada SOA
 **Consulta:** `dig escolapia.cat SOA`
+
+![solucio](/tasca6/img/cap3.png) 
 
 **Anàlisi:**  
 A la resposta es pot veure el **registre SOA (Start of Authority)**, que inclou:
@@ -33,6 +37,8 @@ A la resposta es pot veure el **registre SOA (Start of Authority)**, que inclou:
 
 ### Comanda 4: Consulta de Resolució Inversa
 **Consulta:** `dig -x 147.83.2.135`
+
+![solucio](/tasca6/img/cap4.png) 
 
 **Anàlisi:**  
 Aquest tipus de consulta permet saber **quin nom de domini està associat a una adreça IP**.  
@@ -52,6 +58,8 @@ Permet realitzar consultes DNS interactives i comparar respostes obtingudes de d
 **Acció:**  
 S’estableix `set type=A` i es consulta el domini `tecnocampus.cat`.
 
+![solucio](/tasca6/img/cap5.png) 
+
 **Anàlisi:**  
 La resposta indica que és **no autoritativa** perquè prové d’un **servidor de memòria cau (cache)** i no del servidor autoritatiu del domini.  
 Això significa que la informació és vàlida però ha estat obtinguda anteriorment d’una font autoritativa i guardada temporalment per millorar el rendiment.
@@ -62,6 +70,10 @@ Això significa que la informació és vàlida però ha estat obtinguda anterior
 **Acció:**  
 S’utilitza la comanda `server IP` per dirigir la consulta directament al **primer servidor de noms autoritatiu** obtingut en la consulta anterior.  
 Després es torna a fer una consulta `set type=A` per al domini `tecnocampus.cat`.
+
+![solucio](/tasca6/img/cap6.png) 
+![solucio](/tasca6/img/cap7.png) 
+![solucio](/tasca6/img/cap8.png) 
 
 **Anàlisi:**  
 La resposta ara és **autoritativa**, ja que prové directament del servidor que gestiona el domini.  
