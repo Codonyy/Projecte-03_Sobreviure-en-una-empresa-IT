@@ -2,6 +2,8 @@
 ### Comanda 1: Consulta Bàsica de Registre A
 **Consulta:** `dig xtec.cat A`
 
+![solucio](/tasca6/img/cap1.png) 
+
 **Anàlisi:**  
 La resposta mostra la **adreça IP associada al domini xtec.cat**, que és el destí final al qual apunta el nom.  
 El **valor TTL** indica el temps que aquesta resposta pot mantenir-se en memòria cau abans que calgui tornar a consultar-la.  
