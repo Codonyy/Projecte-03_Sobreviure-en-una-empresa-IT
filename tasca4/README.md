@@ -41,3 +41,12 @@ Assegurar que la infraestructura sigui **robusta, escalable i segura**, seguint 
 4. **Inserció d’usuaris i grups** dins del directori.  
 5. **Configuració del client Ubuntu Desktop** per utilitzar el directori LDAP per a l’autenticació.  
 6. **Verificació i proves de func**
+
+## 📂 Índex de continguts
+
+1. [📁 img/](./img/)
+2. [📄 2. Requeriments d'Infraestructura Inicial.md](./2.%20Requeriments%20d'Infraestructura%20Inicial.md)
+3. [📄 3. Tasques d'Implementació i Configuració del Servidor LDAP.md](./3.%20Tasques%20d'Implementació%20i%20Configuració%20del%20Servidor%20LDAP.md)
+4. [📄 4. Integració de Client (Client Ubuntu Desktop).md](./4.%20Integració%20de%20Client%20(Client%20Ubuntu%20Desktop).md)
+5. [📄 Acceptació del Plec de Condicions Tècniques (PCC) - EverPia.md](./Acceptació%20del%20Plec%20de%20Condicions%20Tècniques%20(PCC)%20-%20EverPia.md)
+6. [📄 README.md](./README.md)
