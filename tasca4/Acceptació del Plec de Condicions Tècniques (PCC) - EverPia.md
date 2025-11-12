@@ -2,6 +2,6 @@
 
 | Per Innovatech (Client) | Per EverPia (Consultora) |
 | :---- | :---- |
-| **Nom:** | **Nom:** |
+| **Nom:** tech01 | **Nom:** manager01 |
 | **Signatura:** | **Signatura:** |
-| **Data:** | **Data:** |
+| **Data:** 12/11/2025 | **Data:** 12/11/2025 |
