@@ -14,7 +14,7 @@ Com a tècnics d'EverPia, ens han encarregat implementar una solució d'emmagatz
 
 Abans de començar, hem afegit **tres discs virtuals de 10 GB** cadascun a la nostra màquina virtual Windows 11.
 
-![Configuració dels discs a VirtualBox](/tasca03/img_t03/captura01.png)
+![Configuració dels discs a VirtualBox](/tasca3/img_t03/captura01.png)
 
 Un cop arrenquem la VM, obrim l'**Administrador de discos** i veiem els tres discs nous sense inicialitzar.
 
