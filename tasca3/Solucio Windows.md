@@ -53,7 +53,7 @@ Ara creem el nostre primer espai d'emmagatzematge. Escollim:
 
 Un cop creat, ja tenim el nostre espai funcionant:
 
-![Espai creat correctament](/tasca03/img_t3/captura10.png)
+![Espai creat correctament](/tasca3/img_t03/captura10.png)
 
 ## 5. Comprovació del funcionament
 
@@ -163,7 +163,7 @@ Un cop creat, veiem el nou espai amb mirall triple:
 
 I podem veure que tenim **5 discs físics** participant en el grup:
 
-![Llista dels 5 discs](/tasca03/img_t3/captura30.png)
+![Llista dels 5 discs](/tasca3/img_t03/captura30.png)
 
 ## 11. Comprovació del Mirall Triple
 
@@ -187,7 +187,7 @@ Podem veure que dos dels discs mostren advertències:
 
 Però el més important: **el nostre arxiu segueix accessible**!
 
-![Arxiu encara accessible després de 2 errors](/tasca03/img_t03/captura35.png)
+![Arxiu encara accessible després de 2 errors](/tasca3/img_t03/captura35.png)
 
 Perfecte! Ara afegiré aquesta última part a la guia que demostra què passa quan només tenim un disc i intentem fer una configuració sense redundància.
 
