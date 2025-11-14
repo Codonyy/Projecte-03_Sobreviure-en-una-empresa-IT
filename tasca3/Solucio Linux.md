@@ -37,3 +37,11 @@ S'ha d'utilitzar la distribució Zorin OS (o una alternativa Linux compatible) p
 ![solucio](/tasca3/img/cap25.png)
 ![solucio](/tasca3/img/cap26.png)
 ![solucio](/tasca3/img/cap27.png)
+
+---
+
+[Explicació de la tasca](README.md)
+
+---
+
+[Tornar a la pàgina principal del projecte](../)
