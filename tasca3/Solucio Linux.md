@@ -17,5 +17,19 @@ S'ha d'utilitzar la distribució Zorin OS (o una alternativa Linux compatible) p
 
 
 ### 3. Instantànies (snapshots):  Crear i afegir dos discos de 10 GB al grup de volums. Crear un volum (lvm_dades) amb el primer disc afegit, formatar-lo i muntar-lo. A continuació afegir arxius al volum (poden ser imatges d’Internet). Usar el segon disc afegit per crear un snapshot (lv_snapshot) i documentar com es pot restaurar aquest snapshot, si per exemple, la informació del volum original es danyés.
+![solucio](/tasca3/img/cap9.png)
+![solucio](/tasca3/img/cap10.png)
+![solucio](/tasca3/img/cap12.png)
+![solucio](/tasca3/img/cap13.png)
+![solucio](/tasca3/img/cap14.png)
+![solucio](/tasca3/img/cap15.png)
+![solucio](/tasca3/img/cap16.png)
+![solucio](/tasca3/img/cap17.png)
+![solucio](/tasca3/img/cap18.png)
+![solucio](/tasca3/img/cap19.png)
+![solucio](/tasca3/img/cap20.png)
+![solucio](/tasca3/img/cap21.png)
+![solucio](/tasca3/img/cap22.png)
+![solucio](/tasca3/img/cap23.png)
 
 ### 4. Escalabilitat: Demostrar el procés d'ampliació*.* Usar l’espai que quedi lliure dins el grup de volums per ampliar el volum lv_dades.
