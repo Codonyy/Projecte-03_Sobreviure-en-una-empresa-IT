@@ -33,3 +33,7 @@ S'ha d'utilitzar la distribució Zorin OS (o una alternativa Linux compatible) p
 ![solucio](/tasca3/img/cap23.png)
 
 ### 4. Escalabilitat: Demostrar el procés d'ampliació*.* Usar l’espai que quedi lliure dins el grup de volums per ampliar el volum lv_dades.
+![solucio](/tasca3/img/cap24.png)
+![solucio](/tasca3/img/cap25.png)
+![solucio](/tasca3/img/cap26.png)
+![solucio](/tasca3/img/cap27.png)
