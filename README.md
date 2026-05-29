@@ -66,29 +66,29 @@ D'acord amb els criteris de gestió uniforme de la plataforma i l'organització 
 ```text
 📂 repositori-everpia2/
 │
-├── 📂 Productes/                             # Projectes integradors i lliuraments de producte
-│   └── 📂 producte04/                         # Exemple de carpeta de producte final
-│       └── 📝 README.md                      # Enunciat i enllaç a la solució del producte
+├── 📂 Productes/                            
+│   └── 📂 producte04/                        
+│       └── 📝 README.md                      
 │
-├── 📂 tasca1/                                # Primera activitat / incidència a resoldre
-│   └── 📝 README.md                          # Enunciat de la tasca 1 i enllaç a la solució
+├── 📂 tasca1/                              
+│   └── 📝 README.md                         
 │
-├── 📂 tasca2/                                # Segona activitat (ex: Gestió de Volums LVM)
-│   └── 📝 README.md                          # Enunciat de la tasca 2 i enllaç a la solució
+├── 📂 tasca2/                               
+│   └── 📝 README.md                        
 │
-├── 📂 tasca3/                                # Tercera activitat (ex: Servidors DNS)
-│   └── 📝 README.md                          # Enunciat de la tasca 3 i enllaç a la solució
+├── 📂 tasca3/                               
+│   └── 📝 README.md                         
 │
-├── 📂 tasca4/                                # Quarta activitat
-│   └── 📝 README.md                          # Enunciat de la tasca 4 i enllaç a la solució
+├── 📂 tasca4/                              
+│   └── 📝 README.md                        
 │
-├── 📂 tasca5/                                # Cinquena activitat
-│   └── 📝 README.md                          # Enunciat de la tasca 5 i enllaç a la solució
+├── 📂 tasca5/                            
+│   └── 📝 README.md                          
 │
-├── 📂 tasca6/                                # Sisena activitat
-│   └── 📝 README.md                          # Enunciat de la tasca 6 i enllaç a la solució
+├── 📂 tasca6/                              
+│   └── 📝 README.md                          
 │
-├── 📂 tasca7/                                # Setena activitat
-│   └── 📝 README.md                          # Enunciat de la tasca 7 i enllaç a la solució
+├── 📂 tasca7/                               
+│   └── 📝 README.md                         
 │
-└── 📄 Projecte-03_Sobreviure-en-una-empresa-IT.pdf  # Guia general del projecte original
+└── 📄 Projecte-03_Sobreviure-en-una-empresa-IT.pdf 
